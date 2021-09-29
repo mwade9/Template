@@ -1,0 +1,17 @@
+.heading {
+    background-color:rgb(255, 60, 0);
+    font-size: 24px;
+
+}
+.paragraph{
+  background-color: royalblue;
+  font-size: 20px;
+}
+.headshot{
+  width: 35%;
+}
+.headshot img{
+  width: 65%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
